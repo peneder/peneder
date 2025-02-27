@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Peter 👋
 
-<!--
-**peneder/peneder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a machine learning researcher and bioinformatician specializing in deep learning for precision medicine. I build multimodal ML models that analyze complex biomedical data. I recently completed my PhD at the University of Vienna and the Tomazou lab, St. Anna Children’s Cancer Research Institute in Vienna, Austria.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Notable Projects
+
+- **DEFT**  
+  A multimodal, epigenetics-based deep learning model for enhanced detection of circulating tumor DNA in liquid biopsies – available soon! (Developed by me)
+  
+- **[CellWhisperer](https://cellwhisperer.bocklab.org/)**  
+  A multimodal AI model that bridges transcriptomics data and natural language, enabling intuitive interaction with scRNA-seq datasets. (Developed together with [Moritz Schäfer](https://github.com/moritzschaefer))
+  
+- **[LIQUORICE](https://liquorice.readthedocs.io/)**  
+  A user-friendly tool for inferring epigenetic signatures from cell-free DNA. (Developed by me)
+
+## 🛠️ Tech Stack
+
+- **Languages & Frameworks:** Python, PyTorch, Lightning, scikit-learn, Snakemake
+- **Tools:** Docker, Git, Linux
+
+## Publications
+- See [Google Scholar](https://scholar.google.de/citations?user=GUh5dwQAAAAJ)
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/peter-peneder)
+- [Email](mailto:peterpeneder@gmx.at)
+
+Thanks for stopping by!
