@@ -6,9 +6,8 @@ I'm a machine learning researcher and bioinformatician specializing in deep lear
 
 ## 🔥 Notable Projects
 
-- **DEFT** (availabale soon)
-  
-  A multimodal, epigenetics-based deep learning model for enhanced detection of circulating tumor DNA in liquid biopsies. (Developed by me)
+- **DEFT** 
+  A multimodal, epigenetics-based deep learning model for enhanced detection of circulating tumor DNA in liquid biopsies - available soon! (Developed by me)
   
 - **[CellWhisperer](https://cellwhisperer.bocklab.org/)**  
   A multimodal AI model that bridges transcriptomics data and natural language, enabling intuitive interaction with scRNA-seq datasets. (Developed together with [Moritz Schäfer](https://github.com/moritzschaefer))
