@@ -26,4 +26,4 @@ I'm a machine learning researcher and bioinformatician specializing in deep lear
 - [LinkedIn](https://linkedin.com/in/peter-peneder)
 - [Email](mailto:peterpeneder@gmx.at)
 
-Thanks for stopping by!
+### Thanks for stopping by!
