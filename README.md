@@ -8,15 +8,15 @@ I'm a machine learning researcher and bioinformatician specializing in deep lear
   A multimodal, epigenetics-based deep learning model for enhanced detection of circulating tumor DNA in liquid biopsies - available soon! (Developed by me)
   
 - **[CellWhisperer](https://cellwhisperer.bocklab.org/)**  
-  A multimodal AI model that bridges transcriptomics data and natural language, enabling intuitive interaction with scRNA-seq datasets. (Developed together with [Moritz Schäfer](https://github.com/moritzschaefer))
+  A multimodal AI model that enables intuitive, language-based exploration of single-cell transcriptomics data (Developed together with [Moritz Schäfer](https://github.com/moritzschaefer))
   
 - **[LIQUORICE](https://liquorice.readthedocs.io/)**  
   A user-friendly tool for inferring epigenetic signatures from cell-free DNA. (Developed by me)
 
 ## 🛠️ Tech Stack
 
-- **Languages & Frameworks:** Python, PyTorch, Lightning, scikit-learn, Snakemake
-- **Tools:** Docker, Git, Linux
+- **Languages & Frameworks:** Python, PyTorch, Lightning, Hugging Face, Snakemake, Pandas, scikit-learn
+- **Tools:** Docker, Conda, Git, Linux
 
 ## 📄 Publications
 - See [Google Scholar](https://scholar.google.de/citations?user=GUh5dwQAAAAJ)
