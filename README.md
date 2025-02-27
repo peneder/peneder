@@ -1,6 +1,6 @@
 # Hi, I'm Peter 👋
 
-I'm a machine learning researcher and bioinformatician specializing in deep learning for precision medicine. I build multimodal ML models for complex biomedical data. I recently completed my PhD at the University of Vienna and the Tomazou lab, St. Anna Children’s Cancer Research Institute in Vienna, Austria.
+I'm a machine learning researcher and bioinformatician specializing in deep learning for precision medicine. I build multimodal ML models for complex biomedical data. I recently completed my PhD at the University of Vienna and the Tomazou lab at the St. Anna Children’s Cancer Research Institute in Vienna, Austria.
 
 ## 🔥 Notable Projects
 
