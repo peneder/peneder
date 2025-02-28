@@ -15,7 +15,7 @@ I'm a machine learning researcher and bioinformatician specializing in deep lear
 
 ## 🛠️ Tech Stack
 
-- **Languages & Frameworks:** Python, PyTorch, Lightning, Hugging Face, Snakemake, Pandas, scikit-learn
+- **Languages & Frameworks:** Python, PyTorch, Lightning, W&B, Hugging Face, Snakemake, Pandas, scikit-learn
 - **Tools:** Docker, Conda, Git, Linux
 
 ## 📄 Publications
