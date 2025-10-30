@@ -1,6 +1,6 @@
 # Hi, I'm Peter 👋
 
-I'm a machine learning researcher and bioinformatician specializing in deep learning for precision medicine. I build multimodal machine learning models for complex biomedical data. I recently completed my PhD at the [University of Vienna](https://univie.ac.at/en)  and the [Tomazou lab](https://tomazoulab.org/) at the [St. Anna Children’s Cancer Research Institute](https://ccri.at/)   in Vienna, Austria.
+I'm a machine learning researcher and bioinformatician specializing in AI x Bio for biosecurity. In the past, I've built multimodal machine learning / deep lerarning models for complex biomedical data. I recently completed my PhD at the [University of Vienna](https://univie.ac.at/en)  and the [Tomazou lab](https://tomazoulab.org/) at the [St. Anna Children’s Cancer Research Institute](https://ccri.at/)   in Vienna, Austria.
 
 ## 🔥 Notable Projects
 
@@ -15,7 +15,7 @@ I'm a machine learning researcher and bioinformatician specializing in deep lear
 
 ## 🛠️ Tech Stack
 
-- **Languages & Frameworks:** Python, PyTorch, Lightning, W&B, Hugging Face, Snakemake, Pandas, scikit-learn
+- **Languages & Frameworks:** Python, PyTorch, Lightning, W&B, Hugging Face, Snakemake, Pandas, scikit-learn, Inspect AI
 - **Tools:** Docker, Conda, Git, Linux
 
 ## 📄 Publications
