@@ -4,7 +4,7 @@ I'm a machine learning researcher and bioinformatician specializing in AI x Bio 
 
 ## 🔥 Notable Projects
 
-- A benchmark measusing the scientific capabilities of frontier AI models
+- **A benchmark measusing the scientific capabilities of frontier AI models**
   We are building an evaluation that tests how good AI models are at predicting the outcomes of biological experiments and at generating novel hypotheses.
 
 - **DEFT**  
