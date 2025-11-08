@@ -27,6 +27,6 @@ I'm a machine learning researcher and bioinformatician specializing in AI x Bio 
 ## 📫 Let's Connect
 
 - [LinkedIn](https://linkedin.com/in/peter-peneder)
-- Email: \<First name\>\<Last name\>@gmx.at
+- Email: \<First name\>@\<Name of the org I'm working at\>.org
 
 ### Thanks for stopping by!
