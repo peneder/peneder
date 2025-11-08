@@ -4,9 +4,8 @@ I'm a machine learning researcher and bioinformatician specializing in AI x Bio 
 
 ## 🔥 Notable Projects
 
-- **A benchmark measusing the scientific capabilities of frontier AI models**
-  
-  We are building an evaluation that tests how good AI models are at predicting the outcomes of biological experiments and at generating novel hypotheses.
+- **A benchmark measusing the scientific capabilities of frontier AI models**  
+  Together with colleagues at SecureBio, I'm building an evaluation that tests how good AI models are at predicting the outcomes of biological experiments and at generating novel hypotheses.
 
 - **DEFT**  
   A multimodal, epigenetics-based deep learning model for enhanced detection of circulating tumor DNA in liquid biopsies - available soon! (Developed by me)
